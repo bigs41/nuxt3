@@ -4,7 +4,7 @@
     "scripts": {
         "dev": "nuxi dev",
         "build": "nuxi build",
-        "start": "PORT=80 node .output/server/index.mjs"
+        "start": "node .output/server/index.mjs"
     },
     "devDependencies": {
         "nuxt3": "latest"
