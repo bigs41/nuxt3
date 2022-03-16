@@ -1,2 +1,1 @@
-web: npm run build
-web: npm run dev -- --port=80
+web: npm run start
