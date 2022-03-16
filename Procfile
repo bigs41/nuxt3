@@ -1,1 +1,1 @@
-web:ENV_SILENT=true npm start
+web:npm run dev -- --port=80
